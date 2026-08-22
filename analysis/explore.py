@@ -32,3 +32,4 @@ print(df["node_id"].value_counts())
 
 print("\nStatistical summary:")
 print(df.describe())
+
